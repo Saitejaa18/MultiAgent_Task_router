@@ -77,8 +77,10 @@ Task_router/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/Task_router.git
-cd Task_router
+git clone https://github.com/your-username/MultiAgent_Task_router.git
+
+cd MultiAgent_Task_router
+
 ```
 
 ### 2. Create & activate virtual environment
